@@ -1,0 +1,19 @@
+{
+  "name": "san3a_restapi",
+  "version": "1.0.0",
+  "description": "san3a is an e-commerce website for handmade products in algeria",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "houssem benseghir",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
